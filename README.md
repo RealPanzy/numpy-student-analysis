@@ -28,18 +28,16 @@ The processed data is saved into a CSV file for further analysis.
 ```sh
 git clone https://github.com/RealPanzy/numpy-student-analysis.git
 ```
-###🔹 2. Navigate to the Project Directory
+### 🔹 2. Navigate to the Project Directory
 ```sh
 cd numpy-student-analysis
 ```
-###🔹 3. Install Dependencies
+### 🔹 3. Install Dependencies
 Ensure you have Python installed. Then install the required libraries:
-```
-sh
+```sh
 pip install numpy pandas
 ```
-###🔹 4. Run the Script
-```
-sh
+### 🔹 4. Run the Script
+```sh
 python student_analysis.py
 ```
